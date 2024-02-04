@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <owner>
+        <username>TrainingData</username>
+        <email/>
+      </owner>
+      
+      <labels>
+        <label>
+          <name>helmet</name>
+          <color>#008060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>no_helmet</name>
+          <color>#ea23c3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-06-08 08:34:09.740913+00:00</dumped>
+  </meta>
+  <image id="0" name="img/0.png" width="1584" height="1598">
+    <box label="helmet" occluded="0" source="manual" xtl="812.33" ytl="939.39" xbr="849.61" ybr="988.62" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="img/1.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="315.52" ytl="179.14" xbr="348.79" ybr="230.03" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="img/2.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="171.21" ytl="139.41" xbr="207.73" ybr="195.56" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="img/3.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="167.14" ytl="7.79" xbr="245.10" ybr="134.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="img/4.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="319.75" ytl="205.09" xbr="352.89" ybr="244.33" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="587.60" ytl="189.54" xbr="602.48" ybr="208.48" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="img/5.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="567.57" ytl="73.43" xbr="584.42" ybr="93.20" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="334.60" ytl="260.65" xbr="355.01" ybr="282.04" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="img/6.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="362.00" ytl="272.53" xbr="378.02" ybr="290.31" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="355.23" ytl="306.08" xbr="381.15" ybr="333.36" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="325.37" ytl="284.01" xbr="340.89" ybr="298.63" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="365.87" ytl="97.56" xbr="375.32" ybr="111.51" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="img/7.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="293.52" ytl="188.94" xbr="313.77" ybr="213.88" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="265.02" ytl="222.88" xbr="289.96" ybr="247.26" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="img/8.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="376.03" ytl="179.92" xbr="395.72" ybr="202.43" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="265.70" ytl="222.19" xbr="289.45" ybr="247.35" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="img/9.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="611.94" ytl="142.22" xbr="630.38" ybr="165.03" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="178.24" ytl="114.86" xbr="196.05" ybr="133.61" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="295.06" ytl="222.60" xbr="316.21" ybr="250.05" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="img/10.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="316.34" ytl="141.37" xbr="351.45" ybr="188.09" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="img/11.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="218.06" ytl="159.73" xbr="260.45" ybr="209.15" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="414.52" ytl="219.81" xbr="461.24" ybr="267.61" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="img/12.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="103.30" ytl="205.91" xbr="158.65" ybr="273.95" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="img/13.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="387.31" ytl="158.47" xbr="434.57" ybr="219.45" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="img/14.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="248.41" ytl="337.19" xbr="298.95" ybr="406.53" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="img/15.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="310.62" ytl="152.82" xbr="343.34" ybr="201.75" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="img/16.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="449.49" ytl="383.39" xbr="505.87" ybr="450.66" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="img/17.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="302.91" ytl="389.65" xbr="362.20" ybr="473.89" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="img/18.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="265.70" ytl="188.68" xbr="302.98" ybr="229.45" z_order="0">
+    </box>
+    <box label="no_helmet" occluded="0" source="manual" xtl="289.21" ytl="160.06" xbr="325.93" ybr="199.75" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="img/19.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="119.77" ytl="225.62" xbr="171.88" ybr="280.97" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="288.26" ytl="83.86" xbr="333.90" ybr="141.37" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="img/20.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="499.90" ytl="79.40" xbr="520.42" ybr="101.27" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="309.27" ytl="257.07" xbr="335.19" ybr="282.46" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="img/21.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="379.43" ytl="266.51" xbr="425.15" ybr="333.70" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="img/22.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="351.32" ytl="240.90" xbr="377.81" ybr="285.43" z_order="0">
+    </box>
+    <box label="no_helmet" occluded="0" source="manual" xtl="270.72" ytl="273.03" xbr="302.28" ybr="322.07" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="img/23.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="145.40" ytl="219.92" xbr="170.78" ybr="251.78" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="504.25" ytl="249.08" xbr="527.47" ybr="276.10" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="img/24.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="270.26" ytl="96.10" xbr="334.76" ybr="176.73" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="img/25.png" width="644" height="600">
+  </image>
+  <image id="26" name="img/26.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="250.76" ytl="231.10" xbr="278.76" ybr="257.40" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="img/27.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="273.25" ytl="207.39" xbr="307.93" ybr="247.67" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="img/28.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="147.91" ytl="0.00" xbr="197.55" ybr="61.47" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="img/29.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="469.82" ytl="218.18" xbr="492.70" ybr="245.55" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="485.14" ytl="235.60" xbr="504.28" ybr="254.35" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="404.16" ytl="244.23" xbr="435.26" ybr="286.62" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="581.12" ytl="484.16" xbr="602.40" ybr="508.40" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="607.55" ytl="144.06" xbr="618.81" ybr="157.97" z_order="0">
+    </box>
+    <box label="no_helmet" occluded="0" source="manual" xtl="593.39" ytl="151.95" xbr="602.14" ybr="162.74" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="img/30.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="355.42" ytl="322.41" xbr="374.99" ybr="342.44" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="img/31.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="272.74" ytl="150.66" xbr="298.39" ybr="182.25" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="175.39" ytl="213.20" xbr="203.21" ybr="245.87" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="img/32.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="329.35" ytl="257.41" xbr="376.01" ybr="310.29" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="img/33.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="140.69" ytl="346.69" xbr="163.74" ybr="371.04" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="213.87" ytl="340.31" xbr="235.75" ybr="368.57" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="img/34.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="342.54" ytl="289.88" xbr="375.75" ybr="325.52" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="338.00" ytl="313.91" xbr="370.67" ybr="350.37" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="363.87" ytl="223.19" xbr="393.30" ybr="260.18" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="img/35.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="353.61" ytl="215.09" xbr="389.52" ybr="260.45" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="img/36.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="250.28" ytl="234.98" xbr="277.06" ybr="270.76" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="img/37.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="233.45" ytl="174.58" xbr="264.50" ybr="207.26" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="img/38.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="187.05" ytl="145.20" xbr="207.53" ybr="175.57" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="211.28" ytl="141.46" xbr="235.59" ybr="177.24" z_order="0">
+    </box>
+    <box label="no_helmet" occluded="0" source="manual" xtl="500.77" ytl="255.05" xbr="531.50" ybr="290.42" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="img/39.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="389.36" ytl="146.01" xbr="423.70" ybr="190.73" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="282.75" ytl="140.18" xbr="325.85" ybr="195.27" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="img/40.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="360.38" ytl="143.80" xbr="373.08" ybr="156.40" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="418.38" ytl="148.99" xbr="430.08" ybr="163.29" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="436.18" ytl="151.49" xbr="447.48" ybr="167.29" z_order="0">
+    </box>
+    <box label="no_helmet" occluded="0" source="manual" xtl="560.50" ytl="132.70" xbr="568.20" ybr="140.20" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="593.70" ytl="143.70" xbr="602.60" ybr="155.40" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="446.94" ytl="150.75" xbr="456.24" ybr="161.75" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="453.84" ytl="148.85" xbr="463.34" ybr="160.85" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="370.18" ytl="150.10" xbr="384.08" ybr="164.70" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="377.77" ytl="258.15" xbr="405.45" ybr="295.28" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="327.46" ytl="252.30" xbr="359.64" ybr="288.31" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="img/41.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="307.16" ytl="207.74" xbr="338.76" ybr="242.57" z_order="-2">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="301.22" ytl="215.36" xbr="332.82" ybr="254.51" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="img/42.png" width="644" height="600">
+    <box label="no_helmet" occluded="0" source="manual" xtl="287.25" ytl="249.69" xbr="309.08" ybr="276.47" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="img/43.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="241.52" ytl="170.33" xbr="259.42" ybr="191.49" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="img/44.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="540.32" ytl="88.13" xbr="554.52" ybr="101.13" z_order="0">
+    </box>
+    <box label="helmet" occluded="0" source="manual" xtl="256.32" ytl="412.84" xbr="273.26" ybr="430.96" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="img/45.png" width="644" height="600">
+    <box label="helmet" occluded="0" source="manual" xtl="279.93" ytl="230.56" xbr="301.42" ybr="252.69" z_order="0">
+    </box>
+  </image>
+</annotations>
+
+
